@@ -1,0 +1,15 @@
+{
+    "name": "crlt/php-mvc",
+    "description": "php mvc framework",
+    "type": "project",
+    "require": {
+        "predis/predis": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Crlt Zhang",
+            "email": "nealse.zh@gmail.com"
+        }
+    ]
+}
