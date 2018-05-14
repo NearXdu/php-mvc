@@ -10,6 +10,6 @@ composer create-project --prefer-dist crlt/php-mvc project
 
 https://github.com/yeszao/fastphp
 
-## LISENCE
+## LICENSE
 
 MIT
