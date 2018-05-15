@@ -2,7 +2,7 @@
 a lightweight php mvc framework
 
 ## INSTALL
-```php
+```shell
 composer create-project --prefer-dist crlt/php-mvc project
 ```
 
